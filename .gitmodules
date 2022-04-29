@@ -1,3 +1,3 @@
 [submodule "scContextualized"]
-	path = scContextualized
+	path = BioContextualized/scContextualized
 	url = https://github.com/blengerich/scContextualized
