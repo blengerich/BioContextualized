@@ -1,16 +1,14 @@
 
 # BioContextualized
 ![pylint Score](pylint.svg)
-![License](https://img.shields.io/github/license/cnellington/contextualized.svg?style=flat-square)
+![License](https://img.shields.io/github/license/blengerich/BioContextualized.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022?style=flat-square)
 
 A statistical machine learning toolbox for estimating models, distributions, and functions with context-specific parameters with applications to biological and medical systems.
 
-Built using Contextualized.ML
-![Preview](https://github.com/cnellington/Contextualized/contextualized_logo.png)]
+Built using [Contextualized.ML](https://github.com/cnellintgon/Contextualized)
 
-Contains:
-
+BioContextualized contains:
 <table>
 <tr>
 <td><a href="http://sc-contextualized.ml/">sc-contextualized.ml</a></td>
