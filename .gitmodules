@@ -1,3 +1,6 @@
 [submodule "BioContextualized/scContextualized"]
 	path = BioContextualized/scContextualized
 	url = https://github.com/blengerich/scContextualized
+[submodule "BioContextualized/MedContextualized"]
+	path = BioContextualized/MedContextualized
+	url = https://github.com/blengerich/MedContextualized
