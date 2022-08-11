@@ -6,7 +6,7 @@
 
 A statistical machine learning toolbox for estimating models, distributions, and functions with context-specific parameters with applications to biological and medical systems.
 
-Built using [Contextualized.ML](https://github.com/cnellintgon/Contextualized)
+Built using [Contextualized.ML](https://github.com/cnellington/Contextualized)
 
 BioContextualized contains:
 <table>
